@@ -1,0 +1,35 @@
+body{
+    background-image: url("music background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: black;
+}
+
+.heading{
+    font-size: 30px;
+    color: white;
+}
+
+.heading1{
+    color: aqua;
+    font-size: 20px;
+}
+
+.heading2{
+    color: beige;
+    font-size: 20px;
+}
+
+.songName{
+    color: white;
+    font-size: 17px;
+}
+
+canvas{
+    background-color: white !important;
+    border-width: 3px !important;
+    border-color: black !important;
+}
